@@ -19,11 +19,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Strivy-ZSY/Strivy-ZSY/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<!--
 <a href="https://github.com/Strivy-ZSY/pot-app-translate-plugin-localdeepseek-r1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strivy-ZSY&repo=pot-app-translate-plugin-localdeepseek-r1" />
 </a>
+
+<!--
 <a href="https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Strivy-ZSY&repo=pot-app-recognize-plugin-ollama" />
 </a>
