@@ -10,7 +10,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-[![Strivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strivy-ZSY)](https://github.com/anuraghazra/github-readme-stats)
+![Strivy's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Strivy-ZSY&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide=prs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strivy-ZSY)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
