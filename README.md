@@ -10,7 +10,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-![Strivy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Strivy-ZSY)
+![Strivy's GitHub stats](https://github-readme-stats-six-rho-57.vercel.app/api?username=Strivy-ZSY)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strivy-ZSY)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
