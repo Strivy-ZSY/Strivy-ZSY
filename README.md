@@ -1,4 +1,10 @@
-## Welcome! 🥰👋
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono+NF+CN&weight=500&duration=1500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Welcome+to+my+homepage!+;I'm+Strivy" alt="Typing SVG">
+    </a>
+</div>
+
+##
 
 <div>
   <a href="https://www.cnblogs.com/strivy/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
