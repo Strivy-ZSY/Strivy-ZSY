@@ -6,14 +6,14 @@
 
 ##
 
-<div align="center">
+<div align="left">
   <a href="https://www.cnblogs.com/strivy/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=Strivy-ZSY&label=Views&color=orange&style=flat" alt="Visitor statistics" />&emsp;
 </div>
 
 <!--![dog](https://github.com/user-attachments/assets/a1c5dc1b-1e61-4b63-a354-9e05bdfa805d) -->
 
-<div align="center">
+<div align="left">
   <div style="border: 3px solid #000; border-radius: 8px; padding: 10px; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/75af22d4-b8c6-4591-9211-fdce967bfbd4" width="300" style="display: block; margin: 0 auto;">
     <img src="https://github.com/user-attachments/assets/770c627f-da21-4111-8de1-fdbdf6c705ea" width="300" style="display: block; margin: 10px auto 0;">
