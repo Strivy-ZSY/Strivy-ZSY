@@ -11,6 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=Strivy-ZSY&label=Views&color=orange&style=flat" alt="Visitor statistics" />&emsp;
 </div>
 
+[](https://github.com/user-attachments/files/22329701/Cold.mp3)
+
+
 <!--![dog](https://github.com/user-attachments/assets/a1c5dc1b-1e61-4b63-a354-9e05bdfa805d) -->
 
 <div align="left">
