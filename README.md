@@ -16,12 +16,12 @@
 
 <!--![dog](https://github.com/user-attachments/assets/a1c5dc1b-1e61-4b63-a354-9e05bdfa805d) -->
 
-<div align="left">
+<!-- <div align="left">
   <div style="border: 3px solid #000; border-radius: 8px; padding: 10px; display: inline-block;">
     <img src="https://github.com/user-attachments/assets/b27d80e6-944f-4a03-9be9-2fb910cc7880" width="300" style="display: block; margin: 0 auto;">
     <img src="https://github.com/user-attachments/assets/30ae8df0-bf1c-44ae-8eff-048f7526e9a3" width="300" style="display: block; margin: 10px auto 0;">
   </div>
-</div>
+</div> -->
 
 <div align="center">
   
