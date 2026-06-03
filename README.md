@@ -7,7 +7,7 @@
 ##
 
 <div align="left">
-  <a href="https://www.cnblogs.com/strivy/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
+  <!-- <a href="https://www.cnblogs.com/strivy/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp; -->
   <img src="https://komarev.com/ghpvc/?username=Strivy-ZSY&label=Views&color=orange&style=flat" alt="Visitor statistics" />&emsp;
 </div>
 
